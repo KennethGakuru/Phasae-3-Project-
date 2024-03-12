@@ -1,14 +1,25 @@
 # Phasae-3-Project-
+
 **NOTEBOOK STRUCTURE**
+
 1.Overview
+
 2.Business Understanding
+
 3.Data Understanding
+
 4.Data Cleaning
+
 5.Exploratory Data Analysis (**EDA**)
+
 6.Data Preparation
+
 7.Modelling
+
 8.Tuning
+
 9.Recommendation
+
 10.Conclusion
 
 **1.)Overview**
